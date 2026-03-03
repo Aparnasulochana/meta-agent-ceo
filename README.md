@@ -55,10 +55,3 @@ you one final executive decision.
    API_KEY = "your-api-key-here"
 5. Run all cells
 6. Enter your business query when prompted
-
-
-## Project Structure
-
-meta-agent-ceo/
-├── README.md
-└── meta_agent_ceo.ipynb
