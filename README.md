@@ -56,13 +56,6 @@ you one final executive decision.
 5. Run all cells
 6. Enter your business query when prompted
 
----
-
-## Sample Query
-
-We want to launch a new AI-based product in the Indian market next quarter. What should we do?
-
----
 
 ## Project Structure
 
